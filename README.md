@@ -1,6 +1,6 @@
 ***WELCOME***
 
-This project is based on creating/deleting/updating student information to Postgres Database using Spring Boot JPA
+This project is based on creating/deleting/updating student information to a Postgres Database using Spring Boot JPA
 
 
 # SpringDataJPA-demo
